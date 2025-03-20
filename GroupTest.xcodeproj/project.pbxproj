@@ -56,15 +56,23 @@
 		832575812D8BEA0F00C84C3D /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
+				832575892D8BEAD600C84C3D /* Jack */,
 				832575782D8BEA0F00C84C3D /* AppDelegate.swift */,
 				832575792D8BEA0F00C84C3D /* Assets.xcassets */,
 				8325757A2D8BEA0F00C84C3D /* Info.plist */,
 				8325757C2D8BEA0F00C84C3D /* LaunchScreen.storyboard */,
 				8325757E2D8BEA0F00C84C3D /* Main.storyboard */,
 				8325757F2D8BEA0F00C84C3D /* SceneDelegate.swift */,
-				832575802D8BEA0F00C84C3D /* ViewController.swift */,
 			);
 			path = GroupTest;
+			sourceTree = "<group>";
+		};
+		832575892D8BEAD600C84C3D /* Jack */ = {
+			isa = PBXGroup;
+			children = (
+				832575802D8BEA0F00C84C3D /* ViewController.swift */,
+			);
+			path = Jack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
