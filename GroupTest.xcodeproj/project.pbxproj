@@ -56,6 +56,7 @@
 		832575812D8BEA0F00C84C3D /* GroupTest */ = {
 			isa = PBXGroup;
 			children = (
+
 				8325758A2D8BECD000C84C3D /* Hue */,
 				832575782D8BEA0F00C84C3D /* AppDelegate.swift */,
 				832575792D8BEA0F00C84C3D /* Assets.xcassets */,
@@ -67,11 +68,13 @@
 			path = GroupTest;
 			sourceTree = "<group>";
 		};
+
 		8325758A2D8BECD000C84C3D /* Hue */ = {
 			isa = PBXGroup;
 			children = (
 				832575802D8BEA0F00C84C3D /* ViewController.swift */,
 			);
+            
 			path = Hue;
 			sourceTree = "<group>";
 		};
